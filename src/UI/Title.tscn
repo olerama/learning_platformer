@@ -1,0 +1,15 @@
+[gd_scene format=2]
+
+[node name="Title" type="Label"]
+anchor_left = 0.5
+anchor_top = 0.204
+anchor_right = 0.5
+anchor_bottom = 0.204
+margin_left = -49.5
+margin_top = -7.09813
+margin_right = 49.5
+margin_bottom = 6.90187
+text = "First Platformer"
+__meta__ = {
+"_edit_use_anchors_": false
+}
